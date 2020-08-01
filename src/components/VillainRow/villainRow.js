@@ -4,9 +4,9 @@ import "./villainRow.css";
 function VillainRow(props) {
     return (
         <tr>
-            <td><img src={props.img} alt={props.name}/></td>
+            <td><img src={props.image} alt={props.name}/></td>
             <td>{props.name}</td>
-            <td>{props.year}</td>
+            <td>{props.firstAppearance}</td>
             <td>{props.alias}</td>
             <td>{props.ability}</td>
         </tr>
