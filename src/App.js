@@ -5,9 +5,9 @@ import Wrapper from "./components/Wrapper";
 function App() {
   return (
     <>
-    <Header></Header>
-    <Wrapper>
-    </Wrapper>
+      <Header></Header>
+      <Wrapper>
+      </Wrapper>
     </>
   );
 }
