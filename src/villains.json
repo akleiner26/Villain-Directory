@@ -119,6 +119,15 @@
         "alias": "Basil Karlo",
         "ability": "Shapeshifting"
     },
+    {
+        "id": 15,
+        "name": "Black Mask",
+        "image": "./components/images/blackMask.jpeg",
+        "firstAppearance": "1985",
+        "alias": "Roman Sionis",
+        "ability": "Criminal Mastermind"
+    },
+    
 
 
 ]
