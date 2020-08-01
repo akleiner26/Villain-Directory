@@ -79,6 +79,30 @@
         "alias": "Jonathan Crane",
         "ability": "Utilizes Fear Inducing Gas and Toxins"
     },
-
+    {
+        "id": 10,
+        "name": "Mr. Freeze",
+        "image": "./components/images/freeze.jpeg",
+        "firstAppearance": "1959",
+        "alias": "Victor Fries",
+        "ability": "Utilizes Cryogenic Weaponry"
+    },
+    {
+        "id": 11,
+        "name": "Hugo Strange",
+        "image": "./components/images/hugoStrange.jpeg",
+        "firstAppearance": "1940",
+        "alias": "Doctor Todhunter",
+        "ability": "Genius Level Intellect"
+    },
+    {
+        "id": 12,
+        "name": "Talia Al Ghul",
+        "image": "./components/images/taliaAlGhul.jpeg",
+        "firstAppearance": "1971",
+        "alias": "Leviathan",
+        "ability": "Resurrection"
+    },
+    
 
 ]
