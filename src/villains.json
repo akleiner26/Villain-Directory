@@ -32,7 +32,7 @@
         "ability": "Expert Burlar"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Two Face",
         "image": "./components/images/twoFace.jpeg",
         "firstAppearance": "1942",
@@ -40,7 +40,7 @@
         "ability": "Criminal Mastermind"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Harley Quinn",
         "image": "./components/images/harleyQuinn.jpeg",
         "firstAppearance": "1992",
@@ -48,7 +48,7 @@
         "ability": "Utilizes Weaponized Props"
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "The Riddler",
         "image": "./components/images/riddler.jpeg",
         "firstAppearance": "1948",
@@ -56,7 +56,7 @@
         "ability": "Genius Level Intellect"
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "Bane",
         "image": "./components/images/bane.jpeg",
         "firstAppearance": "1993",
@@ -64,7 +64,7 @@
         "ability": "Superhuman Strength"
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Hugo Strange",
         "image": "./components/images/hugoStrange.jpeg",
         "firstAppearance": "1940",
@@ -72,7 +72,7 @@
         "ability": "Genius Level Intellect"
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Scarecrow",
         "image": "./components/images/scarecrow.jpeg",
         "firstAppearance": "1941",
@@ -80,7 +80,7 @@
         "ability": "Utilizes Fear Inducing Gas and Toxins"
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "Mr. Freeze",
         "image": "./components/images/freeze.jpeg",
         "firstAppearance": "1959",
@@ -88,7 +88,7 @@
         "ability": "Utilizes Cryogenic Weaponry"
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Talia Al Ghul",
         "image": "./components/images/taliaAlGhul.jpeg",
         "firstAppearance": "1971",
@@ -96,7 +96,7 @@
         "ability": "Resurrection"
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "Penguin",
         "image": "./components/images/penguin.jpeg",
         "firstAppearance": "1941",
@@ -104,7 +104,7 @@
         "ability": "Criminal Mastermind"
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "Poison Ivy",
         "image": "./components/images/poisonIvy.jpeg",
         "firstAppearance": "1966",
@@ -112,7 +112,7 @@
         "ability": "Weaponized Botany"
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Clayface",
         "image": "./components/images/clayface.jpeg",
         "firstAppearance": "1940",
@@ -120,7 +120,7 @@
         "ability": "Shapeshifting"
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Black Mask",
         "image": "./components/images/blackMask.jpeg",
         "firstAppearance": "1985",
@@ -128,13 +128,11 @@
         "ability": "Criminal Mastermind"
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Killer Croc",
         "image": "./components/images/killerCroc.jpeg",
         "firstAppearance": "1983",
         "alias": "Waylon Jones",
         "ability": "Enhanced Strength"
-    },
-
-
+    }
 ]
