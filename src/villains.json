@@ -98,11 +98,12 @@
     {
         "id": 12,
         "name": "Talia Al Ghul",
-        "image": "./components/images/taliaAlGhul.jpeg",
-        "firstAppearance": "1971",
-        "alias": "Leviathan",
-        "ability": "Resurrection"
+        "image": "./components/images/penguin.jpeg",
+        "firstAppearance": "1941",
+        "alias": "Oswald Chesterfield Cobblepot",
+        "ability": "Criminal Mastermind"
     },
     
+
 
 ]
