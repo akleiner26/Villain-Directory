@@ -1,6 +1,84 @@
 [
     {
-        
-    }
+        "id": 1,
+        "name": "The Joker",
+        "image": "./components/images/theJoker.jpeg",
+        "firstAppearance": "1940",
+        "alias": "Red Hood",
+        "ability": "Criminal Mastermind"
+    },
+    {
+        "id": 2,
+        "name": "Ra's Al Ghul",
+        "image": "./components/images/rasAlGhul.jpeg",
+        "firstAppearance": "1971",
+        "alias": "The Demon's Head",
+        "ability": "Criminal Mastermind"
+    },
+    {
+        "id": 3,
+        "name": "Red Hood",
+        "image": "./components/images/redHood.jpeg",
+        "firstAppearance": "1951",
+        "alias": "Jason Todd",
+        "ability": "Expert Marksman"
+    },
+    {
+        "id": 4,
+        "name": "Catwoman",
+        "image": "./components/images/catwoman.jpeg",
+        "firstAppearance": "1940",
+        "alias": "The Cat",
+        "ability": "Expert Burlar"
+    },
+    {
+        "id": 4,
+        "name": "Two Face",
+        "image": "./components/images/twoFace.jpeg",
+        "firstAppearance": "1942",
+        "alias": "Harvey Dent",
+        "ability": "Criminal Mastermind"
+    },
+    {
+        "id": 5,
+        "name": "Harley Quinn",
+        "image": "./components/images/harleyQuinn.jpeg",
+        "firstAppearance": "1992",
+        "alias": "The Cupid of Crime",
+        "ability": "Utilizes Weaponized Props"
+    },
+    {
+        "id": 6,
+        "name": "The Riddler",
+        "image": "./components/images/riddler.jpeg",
+        "firstAppearance": "1948",
+        "alias": "Edward Nigma",
+        "ability": "Genius Level Intellect"
+    },
+    {
+        "id": 7,
+        "name": "Bane",
+        "image": "./components/images/bane.jpeg",
+        "firstAppearance": "1993",
+        "alias": "Unknown",
+        "ability": "Superhuman Strength"
+    },
+    {
+        "id": 8,
+        "name": "Hugo Strange",
+        "image": "./components/images/hugoStrange.jpeg",
+        "firstAppearance": "1940",
+        "alias": "Doctor Todhunter",
+        "ability": "Genius Level Intellect"
+    },
+    {
+        "id": 9,
+        "name": "Scarecrow",
+        "image": "./components/images/scarecrow.jpeg",
+        "firstAppearance": "1941",
+        "alias": "Jonathan Crane",
+        "ability": "Utilizes Fear Inducing Gas and Toxins"
+    },
+
 
 ]
