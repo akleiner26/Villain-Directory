@@ -1,0 +1,10 @@
+@font-face {
+    font-family: batmanForever;
+    src: url(../../assets/fonts/batman-forever/batmfa__.ttf)
+}
+
+.header {
+    background-color: black;
+    color: #FFD32C;
+    text-align: center;
+}
