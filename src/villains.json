@@ -89,21 +89,29 @@
     },
     {
         "id": 11,
-        "name": "Hugo Strange",
-        "image": "./components/images/hugoStrange.jpeg",
-        "firstAppearance": "1940",
-        "alias": "Doctor Todhunter",
-        "ability": "Genius Level Intellect"
+        "name": "Talia Al Ghul",
+        "image": "./components/images/taliaAlGhul.jpeg",
+        "firstAppearance": "1971",
+        "alias": "Leviathan",
+        "ability": "Resurrection"
     },
     {
         "id": 12,
-        "name": "Talia Al Ghul",
+        "name": "Penguin",
         "image": "./components/images/penguin.jpeg",
         "firstAppearance": "1941",
         "alias": "Oswald Chesterfield Cobblepot",
         "ability": "Criminal Mastermind"
     },
-    
+    {
+        "id": 13,
+        "name": "Poison Ivy",
+        "image": "./components/images/poisonIvy.jpeg",
+        "firstAppearance": "1966",
+        "alias": "Paula Irving",
+        "ability": "Weaponized Botany"
+    },
+
 
 
 ]
