@@ -111,7 +111,14 @@
         "alias": "Paula Irving",
         "ability": "Weaponized Botany"
     },
-
+    {
+        "id": 14,
+        "name": "Clayface",
+        "image": "./components/images/clayface.jpeg",
+        "firstAppearance": "1940",
+        "alias": "Basil Karlo",
+        "ability": "Shapeshifting"
+    },
 
 
 ]
