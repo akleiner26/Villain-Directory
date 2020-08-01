@@ -127,7 +127,14 @@
         "alias": "Roman Sionis",
         "ability": "Criminal Mastermind"
     },
-    
+    {
+        "id": 16,
+        "name": "Killer Croc",
+        "image": "./components/images/killerCroc.jpeg",
+        "firstAppearance": "1983",
+        "alias": "Waylon Jones",
+        "ability": "Enhanced Strength"
+    },
 
 
 ]
