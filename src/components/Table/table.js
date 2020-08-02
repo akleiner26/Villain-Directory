@@ -5,7 +5,7 @@ import villains from "../../villains.json"
 
 function Table(props) {
     return (
-        <table className="table">
+        <table className="table table-striped table-dark">
             <thead className="thead-dark">
                 <tr>
                     <th>Photo</th>
