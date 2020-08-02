@@ -4,7 +4,7 @@ import "./header.css";
 function Header(props) {
     return (
         <div className="jumbotron jumbotron-fluid header">
-            <div class="container">
+            <div className="container">
                 <section className="row">
                     <img className="col-12" src="../images/batmanLogo.jpg" alt="Batman Logo" />
                 </section>

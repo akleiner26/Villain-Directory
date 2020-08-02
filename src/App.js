@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from "./components/Header";
-import Wrapper from "./components/Wrapper";
+import Header from "./components/Header/header";
+import Wrapper from "./components/Wrapper/wrapper";
 import Table from "./components/Table/table";
 
 function App() {
