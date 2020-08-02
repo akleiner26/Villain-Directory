@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "The Joker",
-        "image": "./components/images/theJoker.jpg",
+        "image": "/images/theJoker.jpeg",
         "firstAppearance": "1940",
         "alias": "Jack Napier",
         "ability": "Criminal Mastermind"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Ra's Al Ghul",
-        "image": "./components/images/rasAlGhul.jpg",
+        "image": "/images/rasAlGhul.jpg",
         "firstAppearance": "1971",
         "alias": "The Demon's Head",
         "ability": "Criminal Mastermind"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Red Hood",
-        "image": "./components/images/redHood.jpg",
+        "image": "/images/redHood.jpg",
         "firstAppearance": "1951",
         "alias": "Jason Todd",
         "ability": "Expert Marksman"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Catwoman",
-        "image": "./components/images/catwoman.jpg",
+        "image": "/images/catwoman.jpg",
         "firstAppearance": "1940",
         "alias": "The Cat",
         "ability": "Expert Burglar"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Two Face",
-        "image": "./components/images/twoFace.jpg",
+        "image": "/images/twoFace.jpg",
         "firstAppearance": "1942",
         "alias": "Harvey Dent",
         "ability": "Criminal Mastermind"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "Harley Quinn",
-        "image": "./components/images/harleyQuinn.jpg",
+        "image": "/images/harleyQuinn.jpg",
         "firstAppearance": "1992",
         "alias": "The Cupid of Crime",
         "ability": "Utilizes Weaponized Props"
@@ -50,7 +50,7 @@
     {
         "id": 7,
         "name": "The Riddler",
-        "image": "./components/images/riddler.jpg",
+        "image": "/images/riddler.jpg",
         "firstAppearance": "1948",
         "alias": "Edward Nigma",
         "ability": "Genius Level Intellect"
@@ -58,7 +58,7 @@
     {
         "id": 8,
         "name": "Bane",
-        "image": "./components/images/bane.jpg",
+        "image": "/images/bane.jpg",
         "firstAppearance": "1993",
         "alias": "Unknown",
         "ability": "Superhuman Strength"
@@ -66,7 +66,7 @@
     {
         "id": 9,
         "name": "Hugo Strange",
-        "image": "./components/images/hugoStrange.jpg",
+        "image": "/images/hugoStrange.jpg",
         "firstAppearance": "1940",
         "alias": "Doctor Todhunter",
         "ability": "Genius Level Intellect"
@@ -74,7 +74,7 @@
     {
         "id": 10,
         "name": "Scarecrow",
-        "image": "./components/images/scarecrow.jpg",
+        "image": "/images/scarecrow.jpg",
         "firstAppearance": "1941",
         "alias": "Jonathan Crane",
         "ability": "Utilizes Fear Inducing Gas and Toxins"
@@ -82,7 +82,7 @@
     {
         "id": 11,
         "name": "Mr. Freeze",
-        "image": "./components/images/freeze.jpg",
+        "image": "/images/freeze.jpeg",
         "firstAppearance": "1959",
         "alias": "Victor Fries",
         "ability": "Utilizes Cryogenic Weaponry"
@@ -90,7 +90,7 @@
     {
         "id": 12,
         "name": "Talia Al Ghul",
-        "image": "./components/images/taliaAlGhul.jpg",
+        "image": "/images/taliaAlGhul.jpg",
         "firstAppearance": "1971",
         "alias": "Leviathan",
         "ability": "Resurrection"
@@ -98,7 +98,7 @@
     {
         "id": 13,
         "name": "Penguin",
-        "image": "./components/images/penguin.jpg",
+        "image": "/images/penguin.jpg",
         "firstAppearance": "1941",
         "alias": "Oswald Chesterfield Cobblepot",
         "ability": "Criminal Mastermind"
@@ -106,7 +106,7 @@
     {
         "id": 14,
         "name": "Poison Ivy",
-        "image": "./components/images/poisonIvy.jpg",
+        "image": "/images/poisonIvy.jpg",
         "firstAppearance": "1966",
         "alias": "Paula Irving",
         "ability": "Weaponized Botany"
@@ -114,7 +114,7 @@
     {
         "id": 15,
         "name": "Clayface",
-        "image": "./components/images/clayface.jpg",
+        "image": "/images/clayface.jpg",
         "firstAppearance": "1940",
         "alias": "Basil Karlo",
         "ability": "Shapeshifting"
@@ -122,7 +122,7 @@
     {
         "id": 16,
         "name": "Black Mask",
-        "image": "./components/images/blackMask.jpg",
+        "image": "/images/blackMask.jpeg",
         "firstAppearance": "1985",
         "alias": "Roman Sionis",
         "ability": "Criminal Mastermind"
@@ -130,7 +130,7 @@
     {
         "id": 17,
         "name": "Killer Croc",
-        "image": "./components/images/killerCroc.jpg",
+        "image": "/images/killerCroc.jpg",
         "firstAppearance": "1983",
         "alias": "Waylon Jones",
         "ability": "Enhanced Strength"
