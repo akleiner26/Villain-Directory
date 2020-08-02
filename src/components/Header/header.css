@@ -6,5 +6,20 @@
 .header {
     background-color: black;
     color: #FFD32C;
-    text-align: center;
+    text-align: left;
+    max-height: 128px;
+    padding-top: 0;
+    margin-bottom: 0;
+}
+
+.logo{
+    text-align: right;
+    width: 164px !important;
+    height: 128px;
+}
+
+.batman {
+    margin-bottom: 0rem;
+    vertical-align: middle;
+    margin-top: 25px;
 }

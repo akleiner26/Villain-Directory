@@ -6,13 +6,8 @@ function Header(props) {
         <div className="jumbotron jumbotron-fluid header">
             <div className="container">
                 <section className="row">
-                    <img className="col-12" src="../images/batmanLogo.jpg" alt="Batman Logo" />
-                </section>
-                <section className="row">
-                    <h1 className="display-4 col-12">Batman</h1>
-                </section>
-                <section className="row">
-                    <p className="lead col-12">Villains Database</p>
+                    <h4 className="col-3 batman">Batman Villain Database</h4>
+                    <img className="logo offset-6" src={require("../images/batmanLogo.jpg")} alt="Batman Logo" />
                 </section>
             </div>
         </div>
