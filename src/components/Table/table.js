@@ -1,9 +1,23 @@
-import React from "react";
+import React, { useState } from "react";
 import "./table.css";
 import VillainRow from "../VillainRow/villainRow"
 import villains from "../../villains.json"
+import search from "..Search/search"
 
-function Table(props) {
+
+
+function Table() {
+    const [villains, setVillains] = useState(villains)
+    
+    const findVillain = event => {
+        for (let i = 0; i < villains.length; i++){
+            console.log(villains.name);
+            if (event.target === villains.name){
+                this.setState({[villains.name]:value})
+            } else (useState(villains))
+        }
+    }
+
     return (
         <table className="table table-striped table-dark">
             <thead className="thead-dark">
