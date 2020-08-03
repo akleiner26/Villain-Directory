@@ -1,17 +1,36 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Header from "./components/Header/header";
 import Wrapper from "./components/Wrapper/wrapper";
 import Table from "./components/Table/table";
 import Search from "./components/Search/search";
+import villainsJSON from "./villains.json"
+
+
+
 
 function App() {
+
+    const [villains, setVillains] = useState({
+      all: villainsJSON,
+      filtered: villainsJSON
+    })
+    
+    const findVillain = event => {
+      
+        const filtered = villains.all.filter( ({name}) => name.includes(event.target.value))
+        setVillains({
+          ...villains,
+          filtered
+        })
+    }
+
   return (
     <>
       <Header></Header>
       <Wrapper>
-        <Search>
+        <Search handleSearch={findVillain}>
         </Search>
-        <Table>
+        <Table villains={villains.filtered}>
         </Table>
       </Wrapper>
     </>
