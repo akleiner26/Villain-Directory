@@ -17,7 +17,7 @@ function App() {
     
     const findVillain = event => {
       
-        const filtered = villains.all.filter( ({name}) => name.includes(event.target.value))
+        const filtered = villains.all.filter( ({name}) => name.toLowerCase().includes(event.target.value))
         setVillains({
           ...villains,
           filtered
