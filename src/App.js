@@ -27,9 +27,9 @@ function App() {
   return (
     <>
       <Header></Header>
-      <Wrapper>
         <Search handleSearch={findVillain}>
         </Search>
+        <Wrapper>
         <Table villains={villains.filtered}>
         </Table>
       </Wrapper>
