@@ -6,3 +6,11 @@ table {
 thead {
     color: #FFD32C !important;
 }
+
+.aFirst{
+    display: none;
+}
+
+.zFirst{
+    display: none;
+}

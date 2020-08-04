@@ -12,8 +12,8 @@ function Table(props) {
             <thead className="thead-dark">
                 <tr>
                     <th>Photo</th>
-                    <th>Name</th>
-                    <th>First Appearance</th>
+                    <th className="nameHead" onClick={props.sortByName}>Name<i id="down" class="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="up" class="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
+                    <th onClick={props.sortByYear}>First Appearance</th>
                     <th>Alias</th>
                     <th>Abilities</th>
                 </tr>
@@ -25,7 +25,6 @@ function Table(props) {
                     firstAppearance={character.firstAppearance}
                     alias={character.alias}
                     ability={character.ability} />)}
- 
             </tbody>
         </table>
     )
