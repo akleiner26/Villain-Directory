@@ -1,7 +1,8 @@
 .cell {
     background-image: url(./searchImg/gotham.jpg);
-    background-size: auto;
+    background-size: cover;
     min-height: 292px;
+    background-repeat: no-repeat;
 }
 
 input {

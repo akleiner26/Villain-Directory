@@ -8,19 +8,20 @@ import VillainRow from "../VillainRow/villainRow"
 function Table(props) {
 
     return (
-        <div className="scroll">
-            <table className="table table-striped table-dark">
+        // <div className="scroll">
+            <table className="table scroll table-striped table-dark">
                 <thead className="thead-dark">
                     <tr>
                         <th>Photo</th>
-                        <th className="nameHead" onClick={props.sortByName}>Name<i id="down" class="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="up" class="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
-                        <th onClick={props.sortByYear}>First Appearance <i id="numDown" class="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="numUp" class="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
-                        <th onClick={props.sortByAlias}>Alias <i id="aliasDown" class="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="aliasUp" class="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
-                        <th onClick={props.sortByAbility}>Abilities <i id="abilityDown" class="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="abilityUp" class="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
+                        <th className="nameHead" onClick={props.sortByName}>Name<i id="down" className="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="up" className="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
+                        <th onClick={props.sortByYear}>First Appearance <i id="numDown" className="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="numUp" className="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
+                        <th onClick={props.sortByAlias}>Alias <i id="aliasDown" className="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="aliasUp" className="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
+                        <th onClick={props.sortByAbility}>Abilities <i id="abilityDown" className="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="abilityUp" className="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
                     </tr>
                 </thead>
                 <tbody>
                     {props.villains.map(character => <VillainRow
+                        key={character.id}
                         image={character.image}
                         name={character.name}
                         firstAppearance={character.firstAppearance}
@@ -28,7 +29,7 @@ function Table(props) {
                         ability={character.ability} />)}
                 </tbody>
             </table>
-        </div>
+        // </div>
     )
 }
 
