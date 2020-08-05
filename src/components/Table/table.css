@@ -14,3 +14,7 @@ thead {
 .zFirst{
     display: none;
 }
+
+.scroll {
+    overflow:scroll;
+}
