@@ -13,3 +13,7 @@ code {
   font-family: batmanForever;
   src: url(./assets/fonts/batman-forever/batmfa__.ttf);
 }
+
+.instructions {
+  color: #626a6b;
+}

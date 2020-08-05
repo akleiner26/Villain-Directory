@@ -13,9 +13,9 @@ function Table(props) {
                 <tr>
                     <th>Photo</th>
                     <th className="nameHead" onClick={props.sortByName}>Name<i id="down" class="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="up" class="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
-                    <th onClick={props.sortByYear}>First Appearance</th>
-                    <th>Alias</th>
-                    <th>Abilities</th>
+                    <th onClick={props.sortByYear}>First Appearance <i id="numDown" class="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="numUp" class="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
+                    <th onClick={props.sortByAlias}>Alias <i id="aliasDown" class="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="aliasUp" class="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
+                    <th onClick={props.sortByAbility}>Abilities <i id="abilityDown" class="fa fa-caret-down aFirst" aria-hidden="true"></i><i id="abilityUp" class="fa fa-caret-up zFirst" aria-hidden="true"></i></th>
                 </tr>
             </thead>
             <tbody>
