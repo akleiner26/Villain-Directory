@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Villain-Directory/static/css/main.131c660a.chunk.css",
+    "main.js": "/Villain-Directory/static/js/main.30a94297.chunk.js",
+    "main.js.map": "/Villain-Directory/static/js/main.30a94297.chunk.js.map",
+    "runtime-main.js": "/Villain-Directory/static/js/runtime-main.93f74e60.js",
+    "runtime-main.js.map": "/Villain-Directory/static/js/runtime-main.93f74e60.js.map",
+    "static/js/2.538bbeeb.chunk.js": "/Villain-Directory/static/js/2.538bbeeb.chunk.js",
+    "static/js/2.538bbeeb.chunk.js.map": "/Villain-Directory/static/js/2.538bbeeb.chunk.js.map",
+    "index.html": "/Villain-Directory/index.html",
+    "precache-manifest.96232dabfa94b5972baeea8f8148716c.js": "/Villain-Directory/precache-manifest.96232dabfa94b5972baeea8f8148716c.js",
+    "service-worker.js": "/Villain-Directory/service-worker.js",
+    "static/css/main.131c660a.chunk.css.map": "/Villain-Directory/static/css/main.131c660a.chunk.css.map",
+    "static/js/2.538bbeeb.chunk.js.LICENSE.txt": "/Villain-Directory/static/js/2.538bbeeb.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/Villain-Directory/static/media/batmfa__.f687ca2c.ttf",
+    "static/media/search.css": "/Villain-Directory/static/media/gotham.3e0475a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93f74e60.js",
+    "static/js/2.538bbeeb.chunk.js",
+    "static/css/main.131c660a.chunk.css",
+    "static/js/main.30a94297.chunk.js"
+  ]
+}
