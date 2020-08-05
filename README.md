@@ -11,12 +11,14 @@ The Villain Directory App lets the user browse through Batman villains and their
 2) [Usage](#Usage)
 3) [Contributors](#Contributors)
 4) [GitHub](#GitHub)
+5) [Screenshots](#screenshots)
 
 ## Installation:
 Run npm install
 
 ## Usage:
 Visit the launched site at: https://akleiner26.github.io/Villain-Directory/
+
 Visit the Repo At: https://github.com/akleiner26/Villain-Directory
 
 ## Contributors:
@@ -39,12 +41,22 @@ AndrewJKleiner@gmail.com
 ### Entering The Site
 <img src="./screenshots/enterSite.png" alt="Screenshot of entering the site">
 
+
+### Search
 <img src="./screenshots/search.png" alt="Screenshot of using the search function">
 
+
+### Sort By Name
 <img src="./screenshots/sortByName.png" alt="Screenshot of sorting by name">
 
+
+### Sort By Appearance
 <img src="./screenshots/sortByYear.png" alt="Screenshot of sort by appearance">
 
+
+### Sort by Alias
 <img src="./screenshots/sortByAlias.png" alt="Screenshot of sort by alias">
 
+
+### Sort by Ability
 <img src="./screenshots/sortByAbility.png" alt="Screenshot of sort by ability">
