@@ -7,7 +7,8 @@ function Header(props) {
             <div className="container">
                 <section className="row">
                     <h4 className="col-3 batman">Batman Villain Database</h4>
-                    <img className="logo offset-6" src={require("../../images/batmanLogo.jpg")} alt="Batman Logo" />
+                    <div className="col-6 col-md-0"></div>
+                    <img className="logo col-3" src={require("../../images/batmanLogo.jpg")} alt="Batman Logo" />
                 </section>
             </div>
         </div>
