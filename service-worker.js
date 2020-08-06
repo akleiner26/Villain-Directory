@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Villain-Directory/precache-manifest.96232dabfa94b5972baeea8f8148716c.js"
+  "/Villain-Directory/precache-manifest.b4b0a81de72c03e757c6bfa2601b2599.js"
 );
 
 self.addEventListener('message', (event) => {
