@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "398539c983d1df6fd67c10ba5fbe8ef5",
+    "revision": "f74b71fa204ca6812c81169fa8a959bb",
     "url": "/Villain-Directory/index.html"
   },
   {
-    "revision": "6ba00279784bbc9049e4",
+    "revision": "982f7b60fee489c7886d",
     "url": "/Villain-Directory/static/css/main.131c660a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Villain-Directory/static/js/2.538bbeeb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ba00279784bbc9049e4",
-    "url": "/Villain-Directory/static/js/main.f90502be.chunk.js"
+    "revision": "982f7b60fee489c7886d",
+    "url": "/Villain-Directory/static/js/main.9755da45.chunk.js"
   },
   {
     "revision": "71687c9435438b222aef",
