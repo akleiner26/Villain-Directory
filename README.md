@@ -39,24 +39,24 @@ AndrewJKleiner@gmail.com
 ## Screenshots
 
 ### Entering The Site
-<img src="./screenshots/enterSite.png" alt="Screenshot of entering the site">
+<img src="./src/screenshots/enterSite.png" alt="Screenshot of entering the site">
 
 
 ### Search
-<img src="./screenshots/search.png" alt="Screenshot of using the search function">
+<img src="./src/screenshots/search.png" alt="Screenshot of using the search function">
 
 
 ### Sort By Name
-<img src="./screenshots/sortByName.png" alt="Screenshot of sorting by name">
+<img src="./src/screenshots/sortByName.png" alt="Screenshot of sorting by name">
 
 
 ### Sort By Appearance
-<img src="./screenshots/sortByYear.png" alt="Screenshot of sort by appearance">
+<img src="./src/screenshots/sortByYear.png" alt="Screenshot of sort by appearance">
 
 
 ### Sort by Alias
-<img src="./screenshots/sortByAlias.png" alt="Screenshot of sort by alias">
+<img src="./src/screenshots/sortByAlias.png" alt="Screenshot of sort by alias">
 
 
 ### Sort by Ability
-<img src="./screenshots/sortByAbility.png" alt="Screenshot of sort by ability">
+<img src="./src/screenshots/sortByAbility.png" alt="Screenshot of sort by ability">
